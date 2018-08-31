@@ -1,5 +1,2 @@
-/build
-/bower_components
+/dist
 /node_modules
-/contents/vendor
-npm-debug.log

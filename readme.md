@@ -19,4 +19,4 @@ yarn
 yarn run build
 ```
 
-This will build the less files into `site.css`.
+This will build the less files into `site.css` and package up the theme into the _dist_ directory.
