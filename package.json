@@ -14,7 +14,7 @@
   ],
   "license": "MIT",
   "scripts": {
-    "build": "lessc assets/index.less assets/site.css"
+    "build": "lessc assets/index.less assets/site-debug.css && csso assets/site-debug.css assets/site.css"
   },
   "repository": {
     "type": "git",
@@ -22,8 +22,9 @@
   },
   "devDependencies": {
     "bootstrap": "^3.3.7",
-    "prismjs": "1.5.x",
-    "less": "^3.8.1"
+    "csso-cli": "^1.1.0",
+    "less": "^3.8.1",
+    "prismjs": "1.5.x"
   },
   "config": {
     "posts_per_page": 1000
