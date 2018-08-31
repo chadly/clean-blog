@@ -8,7 +8,7 @@ The theme supports multiple authors, Ghost 2.0 editor features, and has a placeh
 
 ## Usage
 
-Download the [latest release](https://github.com/TryGhost/Casper/releases/latest) which includes the compiled css assets and [upload the theme to your Ghost site](https://help.ghost.org/article/31-upload-themes).
+Download the [latest release](https://github.com/chadly/clean-blog/releases/latest) which includes the compiled css assets and [upload the theme to your Ghost site](https://help.ghost.org/article/31-upload-themes).
 
 ## Development
 
