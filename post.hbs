@@ -41,3 +41,10 @@
 </main>
 
 {{/post}}
+
+{{#contentFor "scripts"}}
+<script src="{{asset "fitvids.min.js"}}"></script>
+<script>
+	fitvids();
+</script>
+{{/contentFor}}

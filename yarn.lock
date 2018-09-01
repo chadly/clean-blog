@@ -363,6 +363,10 @@ find-up@^2.1.0:
   dependencies:
     locate-path "^2.0.0"
 
+fitvids@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/fitvids/-/fitvids-2.0.0.tgz#b7bb7a19db83fa021a9f980b6f02e82b2e3662c8"
+
 for-in@^1.0.1:
   version "1.0.2"
   resolved "https://registry.yarnpkg.com/for-in/-/for-in-1.0.2.tgz#81068d295a8142ec0ac726c6e2200c30fb6d5e80"
