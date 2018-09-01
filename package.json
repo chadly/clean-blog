@@ -14,9 +14,9 @@
   ],
   "license": "MIT",
   "scripts": {
-    "dist": "copyfiles *.hbs assets/**/* partials/**/* package.json dist",
+    "dist": "rimraf dist && copyfiles *.hbs assets/**/* partials/**/* package.json dist",
     "compile": "lessc assets/index.less assets/site-debug.css && csso assets/site-debug.css assets/site.css",
-    "build": "rimraf dist && yarn run compile && yarn run dist"
+    "build": "yarn run compile && yarn run dist"
   },
   "repository": {
     "type": "git",
