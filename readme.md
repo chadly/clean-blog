@@ -2,9 +2,11 @@
 
 A theme for [Ghost](https://ghost.org/) inspired by [Clean Blog](https://startbootstrap.com/template-overviews/clean-blog/) by [Start Bootstrap](https://startbootstrap.com/) with a little bit of [Casper](https://github.com/tryghost/casper) mixed in.
 
-<<screenshot>>
+![screenshot](assets/screenshot-desktop.png)
 
 The theme supports multiple authors, Ghost 2.0 editor features, and has a placeholder for comments.
+
+[See here for a live demo](https://clean-blog-ghost-demo.azurewebsites.net/).
 
 ## Usage
 
